@@ -1,5 +1,8 @@
 # assignment1-django-models-mfatihk
 
+<b> Muhammed Fatih KARAKELLE - 214101829 </b> 
+</br>
+</br>
 <b> Django: </b> </br>
 python manage.py startapp "Car" </br>
 python manage.py createsuperuser </br>
